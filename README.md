@@ -1,4 +1,5 @@
-# Workshop on Git and Github
+# Workshop on Git and Github <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="70" height="70" align="right"/> 
+
 #### Git 
 Git is a version control software that keeps track of file changes and also a tool to use Github.
 #### Github
@@ -60,6 +61,18 @@ Each branch will have their own version of the repository.
 
 ## Merging a branch with master
 To Merge a branch with master switch to that branch in Github and create a new `Pull Request`. (Click on the Pull Requests tab if you can't see the option)
+
+You will get something like this:
+
+<p>
+ <img src="pr3.png">
+ <br>
+ <p>
+  Cick on the compare and Pull Request button above
+  </p>
+ <img src="pr4.png">
+</p>
+
 After the pull request is created you can compare and merge that branch with master.
 
 ## Adding Collaborators for group project
@@ -68,6 +81,23 @@ On Github go to `Settings >> Collaborators` and add collaborators by adding thei
 ## Contributing
 To contribute to a public repository first `Fork` that repository. This will create a copy of that repository to your account. Then you can make changes and create `Pull Reuests` to propose any changes to the owner.
 
+After you made some changes to the forked repository Create a pull request:
+<p>
+ <img src="pr1.png">
+ <br>
+ <p>
+  Cick on the New Pull Request button above
+  </p>
+ <img src="pr2.png">
+</p>
+
+Once a pull request is made the owner will receive it.
+
 ## Hosting a website
 Change the repository name to `your_username.github,io` (The repository must contain a `index.html` file). Your website will be hosted at `your_username.github.io`
 
+
+## License
+[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+
+This work is licensed under [GNU General Public License v3.0](https://github.com/atick-faisal/PIC16F877a/blob/master/LICENSE). 
