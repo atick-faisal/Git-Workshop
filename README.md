@@ -79,7 +79,7 @@ After the pull request is created you can compare and merge that branch with mas
 On Github go to `Settings >> Collaborators` and add collaborators by adding their username or email.
 
 ## Contributing
-To contribute to a public repository first `Fork` that repository. This will create a copy of that repository to your account. Then you can make changes and create `Pull Reuests` to propose any changes to the owner.
+To contribute to a public repository first `Fork` that repository (To fork a repository click on the "Fork" button on the top). This will create a copy of that repository to your account. Then you can make changes and create `Pull Reuests` to propose any changes to the owner.
 
 After you made some changes to the forked repository Create a pull request:
 <p>
